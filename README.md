@@ -4,6 +4,7 @@
 #### 🤗 ---Profile---
 - 👨‍🎓 Graduated in computer engineering
 - 🌱 I'm always learning and improving myself more and more every day
+- 🇺🇸 My English level is [C2 Proficient](https://www.efset.org/cert/kYSA4D)
 <br/>
 
 
