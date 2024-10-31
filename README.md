@@ -20,6 +20,10 @@
   <img align="center" alt="angularjs" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white"/>
 </div><br/>
 
+<div>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcupello&layout=compact&langs_count=8&theme=dracula"/>
+</div><br>
+
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=bcupello&show_icons=true&theme=cobalt&count_private=true)
 > _Note: If you want to know how to put these cards like the ones below, check [anuraghazra repository](https://github.com/anuraghazra/github-readme-stats)!_
